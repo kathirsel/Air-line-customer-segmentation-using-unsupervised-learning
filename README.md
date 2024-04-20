@@ -1,0 +1,2 @@
+# Air-line-customer-segmentation-using-unsupervised-learning
+problem statement here is airline customer segmentation to know which group of customer are general so that we can make offers to those.So here there is no target variable for grouping unsupervised learning is applicable where there is no target variable there I have used k-means clustering algorithm for this problem statement.
